@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[304]:
-
-
 def idan(x):
     
     lista=[]
@@ -14,9 +8,6 @@ def idan(x):
     return(lista[-2])
 y=int(input("How many numbers are in your list?"))  
 idan(y)
-
-
-# In[302]:
 
 
 def a(z):
