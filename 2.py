@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 day = input("is it Saturday today? [yes/no]")
 if day == "no":
     print ("Ok")
@@ -21,11 +15,4 @@ elif day == "yes":
              print("try again")
          if timee<14 and timee>8:
              print(f"Alarm is set to {time} - {timee}")
-        
-
-
-# In[ ]:
-
-
-
 
