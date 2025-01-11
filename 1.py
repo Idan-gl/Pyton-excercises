@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 adress = input("Do you live in Rotchild st in Tel Aviv?[yes/no]")
 if adress == "no":
     print("Go Home")
@@ -19,10 +13,3 @@ elif  age == 23:
         print("Go Home")
 elif age < 23:
     print("Go Home")
-
-
-# In[ ]:
-
-
-
-
