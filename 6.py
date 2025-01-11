@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[38]:
-
-
 a=str(input("Choose a word"))
 
 if len(a)<3:
@@ -15,28 +9,3 @@ if len(a)>3:
     if len(a)>3 and b=="abc":
         a=a+"qwd"
 print(a)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
