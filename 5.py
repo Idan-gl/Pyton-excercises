@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[111]:
-
-
 def idan(a):
     lista=[]
     while len(lista)<b:
@@ -17,36 +11,8 @@ b=2
 print(idan(b))
 
 
-# In[108]:
-
-
 a=str(input("Choose a word"))
 b=a[2:4]
 c="ig"
 d=c+b
 d
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
